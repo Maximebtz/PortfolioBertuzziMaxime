@@ -1,2 +1,2 @@
 # PortfolioBertuzziMaxime2
-Personal porfolio
+Personal portfolio
